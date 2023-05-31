@@ -5,7 +5,7 @@ let menu = [
     category: 111,
     id: 0,
     name: 'Buttermilk Pancake',
-    img: '/1.jpg',
+    img: './1.jpg',
     content: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit',
     price: '$ 16.0'
   },
@@ -14,7 +14,7 @@ let menu = [
     category: 112,
     id: 1,
     name: 'Diner Double',
-    img: '/2.jpg',
+    img: './2.jpg',
     content: 'Nulla, vitae facilis error ab veritatis repellat',
     price: '$ 12.0'
   },
@@ -23,7 +23,7 @@ let menu = [
     category: 113,
     id: 2,
     name: 'Godzilla Milkshake',
-    img: '/3.jpg',
+    img: './3.jpg',
     content: 'expedita animi voluptatum',
     price: '$ 6.5'
   },
@@ -32,7 +32,7 @@ let menu = [
     category: 111,
     id: 3,
     name: 'Country Delight',
-    img: '/4.jpg',
+    img: './4.jpg',
     content: 'similique quae aliquid voluptatem quas',
     price: '$ 21.0'
   },
@@ -41,7 +41,7 @@ let menu = [
     category: 112,
     id: 4,
     name: 'Egg Attack',
-    img: '/5.jpg',
+    img: './5.jpg',
     content: 'accusantium, consectetur tempora quidem',
     price: '$ 9.5'
   },
@@ -50,7 +50,7 @@ let menu = [
     category: 113,
     id: 5,
     name: 'Oreo Dream',
-    img: '/6.jpg',
+    img: './6.jpg',
     content: 'ChocOreoChoco',
     price: '$ 8.0'
   },
@@ -59,7 +59,7 @@ let menu = [
     category: 112,
     id: 6,
     name: 'Bacon Overflow',
-    img: '/7.jpg',
+    img: './7.jpg',
     content: 'Bacon Attack',
     price: '$ 8.9'
   },
