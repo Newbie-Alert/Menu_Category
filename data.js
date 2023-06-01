@@ -68,7 +68,7 @@ let menu = [
     category: 112,
     id: 7,
     name: 'American Classic',
-    img: '/8.jpg',
+    img: './8.jpg',
     content: 'Classic never die',
     price: '$ 9.0'
   },
